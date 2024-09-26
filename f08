@@ -1,5 +1,5 @@
 {
 "name":"华为",
-"isOpen":"0",
-"openUrl":"98931.com"
+"isOpen":"7",
+"openUrl":"https://98931.com"
 }
